@@ -32,18 +32,31 @@ Project Files
 Supermarket-Sales-Analysis/
 │
 ├── Ansh_Srivastava_Supermarket_Sales_Analysis_Final.ipynb
+│
 ├── supermarket_sales.csv
+│
 ├── requirements.txt
+│
 ├── README.md
+│
 ├── Ansh_Srivastava_Supermarket_Sales_Analysis_ProjectReport
+│
 └── outputs/
+    │
     ├── customer_gender_revenue.png
+    │
     ├── monthly_sales.png
+    │
     ├── quantity_vs_total.png
+    │
     ├── rating_by_product_line.png
+    │
     ├── revenue_by_payment.png
+    │
     ├── sales_by_branch.png
+    │
     ├── sales_by_product_line.png
+    │
     └── weekday_sales.png
 
 Dataset
@@ -83,11 +96,17 @@ Key Results
 Metric                                        Result
 
 Transactions                                   1,000
+
 Total Sales                             $322,966.75
+
 Gross Income                             $15,379.37
+
 Units Sold                                     5,510
+
 Average Transaction                         $322.97
+
 Average Rating                             6.97 / 10
+
 Quantity vs Total Sales Correlation           0.7055
 
 Additional Results
