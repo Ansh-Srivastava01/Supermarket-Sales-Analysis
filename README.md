@@ -1,10 +1,10 @@
-Supermarket Sales Analysis
+#Supermarket Sales Analysis#
 
 A Python-based data analysis project that explores supermarket sales
 data to identify sales trends, product performance, customer behavior,
 payment preferences, branch performance, and rating patterns.
 
-Project Overview
+#Project Overview#
 
 This project analyzes a supermarket sales dataset containing 1,000
 transactions. The analysis is implemented in a Jupyter Notebook using
@@ -12,6 +12,8 @@ Python and common data-analysis and visualization libraries.
 
 The notebook performs data cleaning, feature preparation, statistical
 analysis, grouping, correlation analysis, and graphical visualization.
+
+
 
 Technologies Used
 
@@ -27,20 +29,22 @@ Matplotlib -- data visualization
 
 Seaborn -- statistical and categorical visualizations
 
-Project Files
+
+
+**Project Files**
 
 Supermarket-Sales-Analysis/
-│
+
 ├── Ansh_Srivastava_Supermarket_Sales_Analysis_Final.ipynb
-│
+
 ├── supermarket_sales.csv
-│
+
 ├── requirements.txt
-│
+
 ├── README.md
-│
+
 ├── Ansh_Srivastava_Supermarket_Sales_Analysis_ProjectReport
-│
+
 └── outputs/
     │
     ├── customer_gender_revenue.png
@@ -59,7 +63,9 @@ Supermarket-Sales-Analysis/
     │
     └── weekday_sales.png
 
-Dataset
+
+
+**Dataset**
 
 The project uses the supermarket_sales.csv dataset.
 
