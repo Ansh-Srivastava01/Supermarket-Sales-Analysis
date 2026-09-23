@@ -1,4 +1,4 @@
-#Supermarket Sales Analysis#
+#Supermarket Sales Analysis
 
 A Python-based data analysis project that explores supermarket sales
 data to identify sales trends, product performance, customer behavior,
