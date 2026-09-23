@@ -65,7 +65,7 @@ Supermarket-Sales-Analysis/
 
 
 
-**# Dataset**
+# Dataset
 
 The project uses the supermarket_sales.csv dataset.
 
@@ -153,7 +153,7 @@ Average rating by product line
 
 The generated charts are stored in the outputs directory.
 
-**# How to Run**
+# How to Run
 
 1. Clone the repository
 
@@ -193,7 +193,7 @@ Python programming
 
 Jupyter Notebook workflow
 
-**## Author**
+## Author
 
 Ansh Srivastava
 B.Tech Computer Science & Engineering
