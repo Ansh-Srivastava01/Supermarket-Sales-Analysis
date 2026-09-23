@@ -46,23 +46,6 @@ Supermarket-Sales-Analysis/
 ├── Ansh_Srivastava_Supermarket_Sales_Analysis_ProjectReport
 
 └── outputs/
-    │
-    ├── customer_gender_revenue.png
-    │
-    ├── monthly_sales.png
-    │
-    ├── quantity_vs_total.png
-    │
-    ├── rating_by_product_line.png
-    │
-    ├── revenue_by_payment.png
-    │
-    ├── sales_by_branch.png
-    │
-    ├── sales_by_product_line.png
-    │
-    └── weekday_sales.png
-
 
 
 # Dataset
@@ -195,10 +178,14 @@ Jupyter Notebook workflow
 
 ## Author
 
-Ansh Srivastava
+**Ansh Srivastava**
+
 B.Tech Computer Science & Engineering
+
 IERT Prayagraj
 
 Project: Supermarket Sales Analysis
+
 Language: Python
+
 Environment: Jupyter Notebook
