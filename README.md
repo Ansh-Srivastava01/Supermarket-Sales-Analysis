@@ -1,10 +1,10 @@
-#Supermarket Sales Analysis
+**# Supermarket Sales Analysis**
 
 A Python-based data analysis project that explores supermarket sales
 data to identify sales trends, product performance, customer behavior,
 payment preferences, branch performance, and rating patterns.
 
-#Project Overview#
+**# Project Overview**
 
 This project analyzes a supermarket sales dataset containing 1,000
 transactions. The analysis is implemented in a Jupyter Notebook using
@@ -15,7 +15,7 @@ analysis, grouping, correlation analysis, and graphical visualization.
 
 
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -31,7 +31,7 @@ Seaborn -- statistical and categorical visualizations
 
 
 
-**Project Files**
+# Project Files
 
 Supermarket-Sales-Analysis/
 
@@ -65,7 +65,7 @@ Supermarket-Sales-Analysis/
 
 
 
-**Dataset**
+**# Dataset**
 
 The project uses the supermarket_sales.csv dataset.
 
@@ -97,7 +97,7 @@ Quantity versus total-sales correlation
 
 Average rating by product line
 
-Key Results
+# Key Results
 
 Metric                                        Result
 
@@ -131,7 +131,7 @@ Highest-sales weekday: Saturday -- $56,120.81
 
 Highest average product-line rating: Food and beverages -- 7.11
 
-Visualizations
+# Visualizations
 
 The project generates charts for:
 
@@ -153,7 +153,7 @@ Average rating by product line
 
 The generated charts are stored in the outputs directory.
 
-How to Run
+**# How to Run**
 
 1. Clone the repository
 
@@ -175,7 +175,7 @@ Ansh_Srivastava_Supermarket_Sales_Analysis_Final.ipynb
 Run the cells from top to bottom. Keep supermarket_sales.csv in the
 same project directory as the notebook.
 
-Skills Demonstrated
+**Skills Demonstrated**
 
 Data cleaning
 
@@ -193,7 +193,7 @@ Python programming
 
 Jupyter Notebook workflow
 
-Author
+**## Author**
 
 Ansh Srivastava
 B.Tech Computer Science & Engineering
